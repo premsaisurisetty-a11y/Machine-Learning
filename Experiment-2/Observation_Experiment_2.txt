@@ -1,0 +1,3 @@
+OBSERVATION – EXPERIMENT 2
+
+The placement dataset was successfully loaded and explored using Python libraries such as Pandas, NumPy, Matplotlib and Seaborn. The dataset was checked for its shape, columns, data types, missing values and duplicate records. The placement status was also analyzed to understand the distribution of placed and non-placed students. The analysis showed that 65.71% of the students were placed and 34.29% were not placed. Overall, the experiment provided a clear understanding of the dataset before applying prediction techniques.

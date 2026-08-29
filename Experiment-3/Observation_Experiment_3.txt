@@ -1,0 +1,3 @@
+OBSERVATION – EXPERIMENT 3
+
+The experiment successfully demonstrated the basic use of Linear Regression on the given dataset. The data was first loaded and checked for duplicate records and basic distribution. The relationship between the independent variable x and dependent variable y was then studied using regression techniques and visualization. The experiment showed how Linear Regression can be used to identify and represent a relationship between two numerical variables.
